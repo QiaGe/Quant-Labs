@@ -1,2 +1,2 @@
-# Quant-Research
+# for Quant Research
 Repository about quantitive investment.
